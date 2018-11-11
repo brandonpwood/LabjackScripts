@@ -7,6 +7,6 @@ cd Documents/LabjackPython/Source/Examples/
 echo ""
 echo ""
 
-python daqStreamFull.py &
+python daqStreamFull.py
 
 EOF
